@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=yyxgiser&theme=radical) 
+![](https://komarev.com/ghpvc/?username=ideshun)
+ :smirk:
